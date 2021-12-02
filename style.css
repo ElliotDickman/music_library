@@ -1,0 +1,43 @@
+body {
+  font: normal normal normal 12px/1.5em 'Lucida Grande', Verdana, Arial,
+    Helvetica, sans-serif;
+  background: linear-gradient(
+      319deg,
+      rgba(2, 0, 36, 1) 0%,
+      rgba(9, 9, 121, 1) 35%,
+      rgba(3, 199, 164, 1) 100%
+    ),
+    white;
+}
+
+td {
+  padding: 0.5em;
+  margin: 0.5em;
+}
+
+tr {
+  border-radius: 0.25em;
+}
+
+tr:nth-child(even) {
+  background: #fff7;
+}
+tr:nth-child(1) {
+  background: #fffb;
+}
+
+button {
+  background: #fff7;
+  padding: 0.5em;
+  border-radius: 0.5em;
+  cursor: pointer;
+}
+
+#albums {
+  display: none;
+  background: #fff7;
+  position: absolute;
+  padding: 2em;
+  margin-top: 2em;
+  border-radius: 1em;
+}
