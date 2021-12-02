@@ -1,6 +1,6 @@
 ## Music library viewer
 
-This page is hosted on GitHub Pages. You can access it at https://elliotdickman.github.io/read_table/.
+This page is hosted on GitHub Pages. You can access it at https://elliotdickman.github.io/music_library/.
 
 Just press the "Get albums" button to fetch and display the music library data.
 
